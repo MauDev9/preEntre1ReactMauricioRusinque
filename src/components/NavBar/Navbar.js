@@ -8,7 +8,7 @@ const NavBar = () => {
         <>
             <Navbar bg="dark" variant="dark">
                 <Container>
-                    <Navbar.Brand as={Link} to='/Home'>MiMarca</Navbar.Brand>
+                    <Navbar.Brand as={Link} to='/Home'>MacCompras!</Navbar.Brand>
                     <Nav className="me-auto">
                         <Nav.Link as={Link} to='Home'>Home</Nav.Link>
                         <Nav.Link as={Link} to='Productos'>Productos</Nav.Link>
